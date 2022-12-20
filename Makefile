@@ -1,6 +1,5 @@
 TAG?=
 
-AUDITTAIL_IMAGE=ghcr.io/metal-toolbox/audittail
 
 .PHONY: release
 release: ## Issues a release
