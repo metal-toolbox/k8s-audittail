@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  audittail:
+  - apiVersion: v2
+    created: "2022-12-23T13:21:15.053247415Z"
+    description: A Helm chart for Kubernetes
+    digest: 67ec90e7d7652008714b51968621cd3c75b7638022ec5f1aae091e065488df39
+    name: audittail
+    type: library
+    urls:
+    - https://github.com/metal-toolbox/k8s-audittail/releases/download/audittail-1.0.0/audittail-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-12-23T13:21:15.053253115Z"
